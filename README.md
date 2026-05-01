@@ -1,5 +1,6 @@
 # Hi, I'm Andre 👋
 
+
 Over 8 years designing and implementing end-to-end data solutions — from ingestion pipelines to semantic layers and BI delivery. I specialize in scalable Lakehouse architectures, data governance, and translating messy multi-source datasets into reliable analytical products.
 
 Background in Economics (USP) and Statistics (Nova de Lisboa). I've lived across the data stack — analytics, data science, and engineering.
@@ -23,17 +24,15 @@ Background in Economics (USP) and Statistics (Nova de Lisboa). I've lived across
 
 ## Certifications
 
-![Databricks Professional](https://img.shields.io/badge/Databricks-Data_Engineer_Professional-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Databricks Associate](https://img.shields.io/badge/Databricks-Data_Engineer_Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Azure Data Engineer](https://img.shields.io/badge/Azure-Data_Engineer_Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure Fundamentals](https://img.shields.io/badge/Azure-Data_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Airflow DAG](https://img.shields.io/badge/Airflow-DAG_Authoring-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Airflow Fundamentals](https://img.shields.io/badge/Airflow-Fundamentals-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+- Databricks Data Engineer Professional
+- Databricks Data Engineer Associate
+- Azure Data Engineer Associate
+- Azure Data Fundamentals
+- Airflow DAG Authoring
+- Airflow Fundamentals
 
 ---
 
-## Find me
+**Find me**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andreemelo)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andreemelo@gmail.com)
-![Location](https://img.shields.io/badge/Lisbon,_Portugal-grey?style=for-the-badge&logo=googlemaps&logoColor=white)
+[LinkedIn](https://linkedin.com/in/andreemelo) · [andreemelo@gmail.com](mailto:andreemelo@gmail.com) · Lisbon, Portugal
