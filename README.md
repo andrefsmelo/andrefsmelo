@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Andre 👋
 
-<!--
-**andrefsmelo/andrefsmelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Over 8 years designing and implementing end-to-end data solutions — from ingestion pipelines to semantic layers and BI delivery. I specialize in scalable Lakehouse architectures, data governance, and translating messy multi-source datasets into reliable analytical products.
 
-Here are some ideas to get you started:
+Background in Economics (USP) and Statistics (Nova de Lisboa). I've lived across the data stack — analytics, data science, and engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**Stack**
+`Python` `SQL` `PySpark` `Databricks` `Delta Lake` `Azure` `dbt` `Airflow` `Power BI` `Git`
+
+---
+
+**Certifications**
+- Databricks Data Engineer Professional
+- Databricks Data Engineer Associate
+- Azure Data Engineer Associate
+- Azure Fabric Data Engineer Associate
+- Airflow DAG Authoring
+
+---
+
+**Find me**
+[LinkedIn](https://linkedin.com/in/andreemelo) · andreemelo@gmail.com · Lisbon, Portugal
